@@ -33,18 +33,15 @@ I am a Full Stack Engineer!
 
 ### I post actively on ...
 
-<a href="https://www.linkedin.com/in/princivershwal/" title="princivershwal" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/shecodingaddict/" title="shecodingaddict" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>
+<a href="https://www.linkedin.com/in/aminkhoshzahmat/" title="aminkhoshzahmat" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+
 
 ### You can also find me on ...
 
-<a href="https://www.instagram.com/princi.vershwal/" title="princi.vershwal" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/vershwal" target="_blank" title="vershwal" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="mailto:vershwal.princi@gmail.com" target="_blank" title="vershwal.princi@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
+<a href="mailto:aminkhoshzahmat@gmail.com" target="_blank" title="aminkhoshzahmat@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
 # 
 
-<!-- <a href="https://www.buymeacoffee.com/vershwal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> -->
 <a href="https://www.buymeacoffee.com/aminkhoshzahmat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
 
