@@ -6,6 +6,8 @@ I am a Full Stack Engineer!
 
 <a href="" target="_blank" title="NuxtJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="NuxtJA" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="VueJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="VueJS" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Tailwind CSS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="VueJS" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Laravel" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="VueJS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
